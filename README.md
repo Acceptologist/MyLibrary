@@ -1,5 +1,6 @@
 # MyLibrary Project
-    MyLibrary is a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
+   
+   MyLibrary is a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
 
 ### Purpose:
   The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.
