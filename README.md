@@ -5,6 +5,8 @@
 ### Purpose:
   The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.
 
+## hosted version
+This app is hosted by Heroku : https://serene-everglades-86007.herokuapp.com/
 
 ## Installation & Start
 
